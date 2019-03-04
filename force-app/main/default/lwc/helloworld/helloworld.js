@@ -1,5 +1,6 @@
 import { LightningElement, track } from 'lwc';
 export default class HelloWorld extends LightningElement {
     @track greeting = 'World'; 
-    @track meddage='Hello'; 
+    @track message='Hello';
+     
 }
