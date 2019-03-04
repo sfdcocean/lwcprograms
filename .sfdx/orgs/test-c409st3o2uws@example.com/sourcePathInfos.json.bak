@@ -1,0 +1,152 @@
+[
+    [
+        "c:\\LTATS1\\hello world\\force-app",
+        {
+            "state": "n",
+            "sourcePath": "c:\\LTATS1\\hello world\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1551699124390,
+            "changeTime": 1551699124390,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "c:\\LTATS1\\hello world\\force-app\\main",
+        {
+            "state": "n",
+            "sourcePath": "c:\\LTATS1\\hello world\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1551699124391,
+            "changeTime": 1551699124391,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\LTATS1\\hello world\\force-app\\main\\default",
+        {
+            "state": "n",
+            "sourcePath": "c:\\LTATS1\\hello world\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1551699124393,
+            "changeTime": 1551699124393,
+            "contentHash": "7334b1e8716ee057f8863fce77d3933d5bd9d984",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\LTATS1\\hello world\\force-app\\main\\default\\aura",
+        {
+            "state": "n",
+            "sourcePath": "c:\\LTATS1\\hello world\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1551699124392,
+            "changeTime": 1551699124392,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\LTATS1\\hello world\\force-app\\main\\default\\lwc",
+        {
+            "state": "n",
+            "sourcePath": "c:\\LTATS1\\hello world\\force-app\\main\\default\\lwc",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1551699730137,
+            "changeTime": 1551699730137,
+            "contentHash": "f7deef33d093eedf2bcb867d719a1767970c362a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\LTATS1\\hello world\\force-app\\main\\default\\lwc\\helloworld",
+        {
+            "state": "n",
+            "sourcePath": "c:\\LTATS1\\hello world\\force-app\\main\\default\\lwc\\helloworld",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1551699730142,
+            "changeTime": 1551699730142,
+            "contentHash": "53f955e7650ec82d25c8a07194b1fe6ddce8d87b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\LTATS1\\hello world\\force-app\\main\\default\\lwc\\helloworld\\helloworld.html",
+        {
+            "state": "n",
+            "sourcePath": "c:\\LTATS1\\hello world\\force-app\\main\\default\\lwc\\helloworld\\helloworld.html",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 197,
+            "modifiedTime": 1551700278888,
+            "changeTime": 1551700278888,
+            "contentHash": "c1bdc963328eefb5e79705258750acbe61365f97",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\LTATS1\\hello world\\force-app\\main\\default\\lwc\\helloworld\\helloworld.js",
+        {
+            "state": "n",
+            "sourcePath": "c:\\LTATS1\\hello world\\force-app\\main\\default\\lwc\\helloworld\\helloworld.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 141,
+            "modifiedTime": 1551700311379,
+            "changeTime": 1551700311379,
+            "contentHash": "7b320cba887768d83154cca25a7e03e982e898e1",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\LTATS1\\hello world\\force-app\\main\\default\\lwc\\helloworld\\helloworld.js-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "c:\\LTATS1\\hello world\\force-app\\main\\default\\lwc\\helloworld\\helloworld.js-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 378,
+            "modifiedTime": 1551700342448,
+            "changeTime": 1551700342448,
+            "contentHash": "f0411d5294661fff0675bab394c28db8bd62bf62",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\LTATS1\\hello world",
+        {
+            "state": "n",
+            "sourcePath": "c:\\LTATS1\\hello world",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1551699151256,
+            "changeTime": 1551699151256,
+            "contentHash": "829e604d4e7d5aae25f04d899b0bc5eccc598817",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
