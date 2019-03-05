@@ -1,0 +1,152 @@
+[
+    [
+        "c:\\LTATS1\\helloworldpkg\\Hellounlockedpkg\\force-app",
+        {
+            "state": "n",
+            "sourcePath": "c:\\LTATS1\\helloworldpkg\\Hellounlockedpkg\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1551804737773,
+            "changeTime": 1551804737773,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "c:\\LTATS1\\helloworldpkg\\Hellounlockedpkg\\force-app\\main",
+        {
+            "state": "n",
+            "sourcePath": "c:\\LTATS1\\helloworldpkg\\Hellounlockedpkg\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1551804737774,
+            "changeTime": 1551804737774,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\LTATS1\\helloworldpkg\\Hellounlockedpkg\\force-app\\main\\default",
+        {
+            "state": "n",
+            "sourcePath": "c:\\LTATS1\\helloworldpkg\\Hellounlockedpkg\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1551804737775,
+            "changeTime": 1551804737775,
+            "contentHash": "7334b1e8716ee057f8863fce77d3933d5bd9d984",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\LTATS1\\helloworldpkg\\Hellounlockedpkg\\force-app\\main\\default\\aura",
+        {
+            "state": "n",
+            "sourcePath": "c:\\LTATS1\\helloworldpkg\\Hellounlockedpkg\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1551804737775,
+            "changeTime": 1551804737775,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\LTATS1\\helloworldpkg\\Hellounlockedpkg\\force-app\\main\\default\\lwc",
+        {
+            "state": "n",
+            "sourcePath": "c:\\LTATS1\\helloworldpkg\\Hellounlockedpkg\\force-app\\main\\default\\lwc",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1551805342152,
+            "changeTime": 1551805342152,
+            "contentHash": "8bbe27fb467fef246626f1ffe42d37e0f175c736",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\LTATS1\\helloworldpkg\\Hellounlockedpkg\\force-app\\main\\default\\lwc\\hellopkg",
+        {
+            "state": "n",
+            "sourcePath": "c:\\LTATS1\\helloworldpkg\\Hellounlockedpkg\\force-app\\main\\default\\lwc\\hellopkg",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1551805342158,
+            "changeTime": 1551805342158,
+            "contentHash": "984e1fb5dba3966f55e51241fc830eeeb84bd63b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\LTATS1\\helloworldpkg\\Hellounlockedpkg\\force-app\\main\\default\\lwc\\hellopkg\\hellopkg.html",
+        {
+            "state": "n",
+            "sourcePath": "c:\\LTATS1\\helloworldpkg\\Hellounlockedpkg\\force-app\\main\\default\\lwc\\hellopkg\\hellopkg.html",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 32,
+            "modifiedTime": 1551805406342,
+            "changeTime": 1551805406342,
+            "contentHash": "613038f8d3fa85c0ad5d94e915dea29391027f84",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\LTATS1\\helloworldpkg\\Hellounlockedpkg\\force-app\\main\\default\\lwc\\hellopkg\\hellopkg.js",
+        {
+            "state": "n",
+            "sourcePath": "c:\\LTATS1\\helloworldpkg\\Hellounlockedpkg\\force-app\\main\\default\\lwc\\hellopkg\\hellopkg.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 141,
+            "modifiedTime": 1551805382445,
+            "changeTime": 1551805382445,
+            "contentHash": "e73f437343983ba324383152276ffa8b41085e76",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\LTATS1\\helloworldpkg\\Hellounlockedpkg\\force-app\\main\\default\\lwc\\hellopkg\\hellopkg.js-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "c:\\LTATS1\\helloworldpkg\\Hellounlockedpkg\\force-app\\main\\default\\lwc\\hellopkg\\hellopkg.js-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 375,
+            "modifiedTime": 1551805457323,
+            "changeTime": 1551805457323,
+            "contentHash": "6f996b31f1a1e50c850bd37db9e341fc0ea1276d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\LTATS1\\helloworldpkg\\Hellounlockedpkg",
+        {
+            "state": "n",
+            "sourcePath": "c:\\LTATS1\\helloworldpkg\\Hellounlockedpkg",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1551804808882,
+            "changeTime": 1551804808882,
+            "contentHash": "829e604d4e7d5aae25f04d899b0bc5eccc598817",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
