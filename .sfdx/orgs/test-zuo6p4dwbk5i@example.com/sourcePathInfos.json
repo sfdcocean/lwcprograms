@@ -1,0 +1,207 @@
+[
+    [
+        "c:\\LTATS1\\testproject\\force-app",
+        {
+            "state": "n",
+            "sourcePath": "c:\\LTATS1\\testproject\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1552474219223,
+            "changeTime": 1552474219223,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "c:\\LTATS1\\testproject\\force-app\\main",
+        {
+            "state": "n",
+            "sourcePath": "c:\\LTATS1\\testproject\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1552405815953,
+            "changeTime": 1552405815953,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\LTATS1\\testproject\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "c:\\LTATS1\\testproject\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1552474243981,
+            "changeTime": 1552474243981,
+            "contentHash": "5d7a4654cfc6694347351db78c693b107ff4a1f8"
+        }
+    ],
+    [
+        "c:\\LTATS1\\testproject\\force-app\\main\\default\\aura",
+        {
+            "state": "n",
+            "sourcePath": "c:\\LTATS1\\testproject\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1552405815954,
+            "changeTime": 1552405815954,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\LTATS1\\testproject\\force-app\\main\\default\\lwc",
+        {
+            "state": "n",
+            "sourcePath": "c:\\LTATS1\\testproject\\force-app\\main\\default\\lwc",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1552405926371,
+            "changeTime": 1552405926371,
+            "contentHash": "a973ac1b5be0e216b2a2db1b82ae5ba97f4086f4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\LTATS1\\testproject",
+        {
+            "state": "n",
+            "sourcePath": "c:\\LTATS1\\testproject",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1552405841877,
+            "changeTime": 1552405841877,
+            "contentHash": "829e604d4e7d5aae25f04d899b0bc5eccc598817",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\LTATS1\\testproject\\force-app\\main\\default\\classes\\hello.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\LTATS1\\testproject\\force-app\\main\\default\\classes\\hello.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1552474243941,
+            "changeTime": 1552474243941,
+            "contentHash": "ab3ac94968e57930b88820ab5438fa820ed36730"
+        }
+    ],
+    [
+        "c:\\LTATS1\\testproject\\force-app\\main\\default\\classes\\hello.cls",
+        {
+            "state": "u",
+            "sourcePath": "c:\\LTATS1\\testproject\\force-app\\main\\default\\classes\\hello.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 22,
+            "modifiedTime": 1552474243946,
+            "changeTime": 1552474243946,
+            "contentHash": "5060bcb985e25ece0b86239b74e16f549eeff24b"
+        }
+    ],
+    [
+        "c:\\LTATS1\\testproject\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\LTATS1\\testproject\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 22238,
+            "modifiedTime": 1552474243971,
+            "changeTime": 1552474243971,
+            "contentHash": "5572bcbc01de28749ef0ac53123cb6d8606282cf"
+        }
+    ],
+    [
+        "c:\\LTATS1\\testproject\\force-app\\main\\default\\settings\\Case.settings-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\LTATS1\\testproject\\force-app\\main\\default\\settings\\Case.settings-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2746,
+            "modifiedTime": 1552474243977,
+            "changeTime": 1552474243977,
+            "contentHash": "734b027ac98a30d9c25e055c78f46bf0b2bb9d85"
+        }
+    ],
+    [
+        "c:\\LTATS1\\testproject\\force-app\\main\\default\\emailservices\\EmailToCase.xml-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\LTATS1\\testproject\\force-app\\main\\default\\emailservices\\EmailToCase.xml-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1068,
+            "modifiedTime": 1552474243983,
+            "changeTime": 1552474243983,
+            "contentHash": "877bd27ead4f1f90527cc158c3f97eb8d690044f"
+        }
+    ],
+    [
+        "c:\\LTATS1\\testproject\\force-app\\main\\default\\classes",
+        {
+            "state": "u",
+            "sourcePath": "c:\\LTATS1\\testproject\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1552474243945,
+            "changeTime": 1552474243945,
+            "contentHash": "7f86a645da82525701f47c2e925e0d49009d1291"
+        }
+    ],
+    [
+        "c:\\LTATS1\\testproject\\force-app\\main\\default\\profiles",
+        {
+            "state": "u",
+            "sourcePath": "c:\\LTATS1\\testproject\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1552474243970,
+            "changeTime": 1552474243970,
+            "contentHash": "dd4bc5d00d5b87ac9dcfa94ec543d354d095c25c"
+        }
+    ],
+    [
+        "c:\\LTATS1\\testproject\\force-app\\main\\default\\settings",
+        {
+            "state": "u",
+            "sourcePath": "c:\\LTATS1\\testproject\\force-app\\main\\default\\settings",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1552474243976,
+            "changeTime": 1552474243976,
+            "contentHash": "d4aa6a13c229a0555e86f2e6c49f06745837474b"
+        }
+    ],
+    [
+        "c:\\LTATS1\\testproject\\force-app\\main\\default\\emailservices",
+        {
+            "state": "u",
+            "sourcePath": "c:\\LTATS1\\testproject\\force-app\\main\\default\\emailservices",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1552474243982,
+            "changeTime": 1552474243982,
+            "contentHash": "8bf2ae65e518aae14ef6f8dae7e4bffc64ed8b99"
+        }
+    ]
+]
